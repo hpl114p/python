@@ -1,1 +1,1 @@
-# 40 day Python practice
+#Python practice
